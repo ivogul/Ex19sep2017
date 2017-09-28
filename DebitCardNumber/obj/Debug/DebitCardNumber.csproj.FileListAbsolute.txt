@@ -4,3 +4,6 @@ D:\Documents\Visual Studio 2015\Projects\Ex19sep17\DebitCardNumber\bin\Debug\Deb
 D:\Documents\Visual Studio 2015\Projects\Ex19sep17\DebitCardNumber\obj\Debug\DebitCardNumber.csprojResolveAssemblyReference.cache
 D:\Documents\Visual Studio 2015\Projects\Ex19sep17\DebitCardNumber\obj\Debug\DebitCardNumber.exe
 D:\Documents\Visual Studio 2015\Projects\Ex19sep17\DebitCardNumber\obj\Debug\DebitCardNumber.pdb
+C:\Users\Ivo\Desktop\Ex19sep2017Clone\DebitCardNumber\bin\Debug\DebitCardNumber.exe.config
+C:\Users\Ivo\Desktop\Ex19sep2017Clone\DebitCardNumber\obj\Debug\DebitCardNumber.exe
+C:\Users\Ivo\Desktop\Ex19sep2017Clone\DebitCardNumber\obj\Debug\DebitCardNumber.pdb
