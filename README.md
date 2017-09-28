@@ -11,4 +11,5 @@ Edited and added new text in local md
 Added text fot Bash
 added text from github
 Resolved conflict
+text from master
 
