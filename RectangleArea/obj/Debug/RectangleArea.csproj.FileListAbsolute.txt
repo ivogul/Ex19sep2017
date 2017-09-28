@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2015\Projects\Ex19sep17\RectangleArea\bin\Debug\RectangleArea.exe.config
+D:\Documents\Visual Studio 2015\Projects\Ex19sep17\RectangleArea\bin\Debug\RectangleArea.exe
+D:\Documents\Visual Studio 2015\Projects\Ex19sep17\RectangleArea\bin\Debug\RectangleArea.pdb
+D:\Documents\Visual Studio 2015\Projects\Ex19sep17\RectangleArea\obj\Debug\RectangleArea.exe
+D:\Documents\Visual Studio 2015\Projects\Ex19sep17\RectangleArea\obj\Debug\RectangleArea.pdb

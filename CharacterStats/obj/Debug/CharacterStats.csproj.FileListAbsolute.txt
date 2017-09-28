@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2015\Projects\Ex19sep17\CharacterStats\bin\Debug\CharacterStats.exe.config
+D:\Documents\Visual Studio 2015\Projects\Ex19sep17\CharacterStats\bin\Debug\CharacterStats.exe
+D:\Documents\Visual Studio 2015\Projects\Ex19sep17\CharacterStats\bin\Debug\CharacterStats.pdb
+D:\Documents\Visual Studio 2015\Projects\Ex19sep17\CharacterStats\obj\Debug\CharacterStats.exe
+D:\Documents\Visual Studio 2015\Projects\Ex19sep17\CharacterStats\obj\Debug\CharacterStats.pdb

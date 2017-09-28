@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2015\Projects\Ex19sep17\MilesToKilometers\bin\Debug\MilesToKilometers.exe.config
+D:\Documents\Visual Studio 2015\Projects\Ex19sep17\MilesToKilometers\bin\Debug\MilesToKilometers.exe
+D:\Documents\Visual Studio 2015\Projects\Ex19sep17\MilesToKilometers\bin\Debug\MilesToKilometers.pdb
+D:\Documents\Visual Studio 2015\Projects\Ex19sep17\MilesToKilometers\obj\Debug\MilesToKilometers.exe
+D:\Documents\Visual Studio 2015\Projects\Ex19sep17\MilesToKilometers\obj\Debug\MilesToKilometers.pdb

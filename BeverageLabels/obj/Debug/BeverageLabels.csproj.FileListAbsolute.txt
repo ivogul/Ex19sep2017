@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2015\Projects\Ex19sep17\BeverageLabels\bin\Debug\BeverageLabels.exe.config
+D:\Documents\Visual Studio 2015\Projects\Ex19sep17\BeverageLabels\bin\Debug\BeverageLabels.exe
+D:\Documents\Visual Studio 2015\Projects\Ex19sep17\BeverageLabels\bin\Debug\BeverageLabels.pdb
+D:\Documents\Visual Studio 2015\Projects\Ex19sep17\BeverageLabels\obj\Debug\BeverageLabels.exe
+D:\Documents\Visual Studio 2015\Projects\Ex19sep17\BeverageLabels\obj\Debug\BeverageLabels.pdb
