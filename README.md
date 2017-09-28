@@ -13,3 +13,5 @@ added text from github
 Resolved conflict
 text from master
 
+text in branch dev2
+
