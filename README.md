@@ -12,3 +12,5 @@ Added text fot Bash
 added text from github
 Resolved conflict
 
+text in branch dev2
+
